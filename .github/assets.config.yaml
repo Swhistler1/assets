@@ -1,6 +1,8 @@
 app:
   log_level: "debug"
 
+https://docs.github.com/en/developers/apps/authorizing-oauth-apps
+
 client_urls:
   binance:
     dex: "https://dex.binance.org"
